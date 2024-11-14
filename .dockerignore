@@ -1,0 +1,7 @@
+.git
+compose.dev.yaml
+compose.prod.yaml
+compose.prod-without-multistage.yaml
+README.md
+*.code-workspace
+*.Dockerfile
